@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekThreeCreatePropertyForObject", "WeekThreeCreatePropertyForObject\WeekThreeCreatePropertyForObject.csproj", "{B292142F-A435-4554-86EE-773B1F176A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B292142F-A435-4554-86EE-773B1F176A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B292142F-A435-4554-86EE-773B1F176A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B292142F-A435-4554-86EE-773B1F176A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B292142F-A435-4554-86EE-773B1F176A00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA2107B-A2A1-4F85-9E46-C0F92A3F414B}
+	EndGlobalSection
+EndGlobal
